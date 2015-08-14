@@ -4,4 +4,7 @@ image: /images/content/recessed-image-placeholder.jpg
 title: About Us
 ---
 
-Stuff about the lab...
+Under Construction
+==================
+
+This site is under construction (14/08/2015)
