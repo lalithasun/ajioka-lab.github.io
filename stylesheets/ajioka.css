@@ -1,0 +1,20 @@
+ul.ajioka-edit-button {
+    float: right;
+    background: #e3e3e3;
+    position: relative;
+    z-index: 3;
+    top: 0;
+    right: 0;
+    padding: 0.25em 0.5em;
+    border-bottom-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+    -webkit-border-bottom-right-radius: 0.5em;
+    -webkit-border-bottom-left-radius: 0.5em;
+    -moz-border-radius-bottomleft: 0.5em;
+    -moz-border-radius-bottomright: 0.5em;
+}
+
+
+ul.ajioka-edit-button a {
+    color: #003C79;
+}
