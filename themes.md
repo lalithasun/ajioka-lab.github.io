@@ -1,6 +1,6 @@
 ---
 layout: content_with_links
-image: /images/content/recessed-image-placeholder.jpg
+image: /images/content/themes.png
 title: Research Themes
 permalink: /themes/
 ---
